@@ -1,0 +1,2160 @@
+9 iteration 0
+9 -r
+8 iteration 1
+8 +r
+9 iteration 2
+9 same
+9 iteration 3
+9 +1
+109 iteration 4
+109 -r
+108 iteration 5
+108 +r
+109 iteration 6
+109 -1
+9 iteration 7
+9 same
+9 iteration 8
+9 same
+9 iteration 9
+9 +1
+109 iteration 10
+109 +1
+209 iteration 11
+209 -r
+208 iteration 12
+208 same
+208 iteration 13
+208 +1
+308 iteration 14
+308 -1
+208 iteration 15
+208 -1
+108 iteration 16
+108 -r
+107 iteration 17
+107 +1
+207 iteration 18
+207 +1
+307 iteration 19
+317 -1
+217 iteration 20
+217 +1
+317 iteration 21
+307 -1
+207 iteration 22
+207 -r
+206 iteration 23
+206 same
+206 iteration 24
+206 -1
+106 iteration 25
+106 +1
+206 iteration 26
+206 +r
+207 iteration 27
+207 +r
+208 iteration 28
+208 -r
+207 iteration 29
+207 -1
+107 iteration 30
+107 -r
+106 iteration 31
+106 -r
+105 iteration 32
+105 -1
+5 iteration 33
+5 same
+5 iteration 34
+5 -r
+4 iteration 35
+4 +1
+104 iteration 36
+104 same
+104 iteration 37
+104 +r
+105 iteration 38
+105 +r
+106 iteration 39
+106 -r
+105 iteration 40
+105 -r
+104 iteration 41
+104 +1
+204 iteration 42
+204 -1
+104 iteration 43
+104 -r
+103 iteration 44
+103 -r
+102 iteration 45
+102 +r
+103 iteration 46
+103 +1
+203 iteration 47
+203 +r
+204 iteration 48
+204 -r
+203 iteration 49
+203 -r
+202 iteration 50
+202 -1
+102 iteration 51
+102 -1
+2 iteration 52
+2 same
+2 iteration 53
+2 -r
+1 iteration 54
+1 -r
+0 iteration 55
+0 +r
+1 iteration 56
+1 +r
+2 iteration 57
+2 +r
+3 iteration 58
+3 -r
+2 iteration 59
+2 +1
+102 iteration 60
+102 same
+102 iteration 61
+102 -r
+101 iteration 62
+101 -r
+100 iteration 63
+100 +r
+101 iteration 64
+101 +r
+102 iteration 65
+102 +1
+202 iteration 66
+202 -r
+201 iteration 67
+201 same
+201 iteration 68
+201 -1
+101 iteration 69
+101 -1
+1 iteration 70
+1 same
+1 iteration 71
+1 +1
+101 iteration 72
+101 +1
+201 iteration 73
+201 -r
+200 iteration 74
+200 same
+200 iteration 75
+200 -1
+100 iteration 76
+100 same
+100 iteration 77
+100 +1
+200 iteration 78
+200 +1
+300 iteration 79
+300 +r
+301 iteration 80
+301 +r
+302 iteration 81
+302 +r
+303 iteration 82
+303 +r
+304 iteration 83
+304 +r
+305 iteration 84
+305 -1
+205 iteration 85
+205 +1
+305 iteration 86
+305 +r
+306 iteration 87
+306 -1
+206 iteration 88
+206 -r
+205 iteration 89
+205 -1
+105 iteration 90
+105 +1
+205 iteration 91
+205 +r
+206 iteration 92
+206 +1
+306 iteration 93
+306 +r
+307 iteration 94
+307 same
+307 iteration 95
+307 +r
+308 iteration 96
+308 +r
+309 iteration 97
+309 -1
+209 iteration 98
+209 same
+209 iteration 99
+209 +1
+309 iteration 100
+309 -r
+308 iteration 101
+308 -r
+307 iteration 102
+307 -r
+306 iteration 103
+306 -r
+305 iteration 104
+305 -r
+304 iteration 105
+304 same
+304 iteration 106
+304 same
+304 iteration 107
+304 -1
+204 iteration 108
+204 same
+204 iteration 109
+204 +r
+205 iteration 110
+205 same
+205 iteration 111
+205 -r
+204 iteration 112
+204 +1
+304 iteration 113
+304 -r
+303 iteration 114
+303 same
+303 iteration 115
+303 -r
+302 iteration 116
+302 same
+302 iteration 117
+302 -1
+202 iteration 118
+202 +r
+203 iteration 119
+203 -1
+103 iteration 120
+103 same
+103 iteration 121
+103 +r
+104 iteration 122
+104 -1
+4 iteration 123
+4 -r
+3 iteration 124
+3 same
+3 iteration 125
+3 +r
+4 iteration 126
+4 same
+4 iteration 127
+4 +r
+5 iteration 128
+5 +r
+6 iteration 129
+6 same
+6 iteration 130
+6 +r
+7 iteration 131
+7 -r
+6 iteration 132
+6 +1
+106 iteration 133
+136 -r
+135 iteration 134
+145 -1
+45 iteration 135
+5 +1
+105 iteration 136
+105 same
+105 iteration 137
+105 -1
+5 iteration 138
+5 same
+5 iteration 139
+5 same
+5 iteration 140
+5 +1
+105 iteration 141
+105 -1
+5 iteration 142
+5 -r
+4 iteration 143
+4 same
+4 iteration 144
+4 same
+4 iteration 145
+4 +1
+104 iteration 146
+104 -1
+4 iteration 147
+4 same
+4 iteration 148
+4 -r
+3 iteration 149
+3 +1
+103 iteration 150
+103 -1
+3 iteration 151
+3 same
+3 iteration 152
+3 same
+3 iteration 153
+3 +1
+103 iteration 154
+103 -1
+3 iteration 155
+3 same
+3 iteration 156
+3 -r
+2 iteration 157
+2 same
+2 iteration 158
+2 same
+2 iteration 159
+2 +1
+102 iteration 160
+102 -1
+2 iteration 161
+2 same
+2 iteration 162
+2 +1
+102 iteration 163
+102 same
+102 iteration 164
+102 -1
+2 iteration 165
+2 same
+2 iteration 166
+2 -r
+1 iteration 167
+1 same
+1 iteration 168
+1 same
+1 iteration 169
+1 +1
+101 iteration 170
+101 same
+101 iteration 171
+101 -1
+1 iteration 172
+1 same
+1 iteration 173
+1 +1
+101 iteration 174
+101 same
+101 iteration 175
+101 -1
+1 iteration 176
+1 same
+1 iteration 177
+1 same
+1 iteration 178
+1 +1
+101 iteration 179
+101 +1
+201 iteration 180
+201 +1
+301 iteration 181
+301 -r
+300 iteration 182
+300 -1
+200 iteration 183
+200 +r
+201 iteration 184
+201 +r
+202 iteration 185
+202 same
+202 iteration 186
+202 +1
+302 iteration 187
+302 -r
+301 iteration 188
+301 -1
+201 iteration 189
+201 -1
+101 iteration 190
+101 -1
+1 iteration 191
+1 same
+1 iteration 192
+1 -r
+0 iteration 193
+0 same
+0 iteration 194
+0 +1
+100 iteration 195
+100 -1
+0 iteration 196
+0 same
+0 iteration 197
+0 same
+0 iteration 198
+0 +1
+100 iteration 199
+100 -1
+0 iteration 200
+0 same
+0 iteration 201
+0 +1
+100 iteration 202
+100 same
+100 iteration 203
+100 -1
+0 iteration 204
+0 same
+0 iteration 205
+0 same
+0 iteration 206
+20 +r
+21 iteration 207
+11 -r
+10 iteration 208
+0 same
+0 iteration 209
+0 +1
+100 iteration 210
+190 -1
+90 iteration 211
+90 same
+90 iteration 212
+0 same
+0 iteration 213
+0 +1
+100 iteration 214
+100 +1
+200 iteration 215
+200 -1
+100 iteration 216
+100 -1
+0 iteration 217
+0 same
+0 iteration 218
+0 same
+0 iteration 219
+0 +1
+100 iteration 220
+170 +r
+171 iteration 221
+131 -r
+130 iteration 222
+100 same
+100 iteration 223
+100 -1
+0 iteration 224
+0 same
+0 iteration 225
+0 +1
+100 iteration 226
+100 +1
+200 iteration 227
+200 same
+200 iteration 228
+200 same
+200 iteration 229
+200 +1
+300 iteration 230
+300 same
+300 iteration 231
+300 -1
+200 iteration 232
+200 -1
+100 iteration 233
+100 same
+100 iteration 234
+100 -1
+0 iteration 235
+0 same
+0 iteration 236
+0 same
+0 iteration 237
+0 +1
+100 iteration 238
+100 -1
+0 iteration 239
+0 same
+0 iteration 240
+0 +r
+1 iteration 241
+1 same
+1 iteration 242
+1 +r
+2 iteration 243
+2 same
+2 iteration 244
+2 +r
+3 iteration 245
+3 +1
+103 iteration 246
+103 same
+103 iteration 247
+103 -1
+3 iteration 248
+3 same
+3 iteration 249
+3 +r
+4 iteration 250
+4 +r
+5 iteration 251
+5 same
+5 iteration 252
+5 +r
+6 iteration 253
+6 -r
+5 iteration 254
+5 same
+5 iteration 255
+5 +1
+105 iteration 256
+105 same
+105 iteration 257
+105 +1
+205 iteration 258
+205 -1
+105 iteration 259
+105 -1
+5 iteration 260
+5 same
+5 iteration 261
+5 -r
+4 iteration 262
+4 +1
+104 iteration 263
+104 -1
+4 iteration 264
+4 same
+4 iteration 265
+4 same
+4 iteration 266
+4 +1
+104 iteration 267
+104 same
+104 iteration 268
+104 +1
+204 iteration 269
+204 -1
+104 iteration 270
+104 -1
+4 iteration 271
+4 -r
+3 iteration 272
+3 +1
+103 iteration 273
+103 +1
+203 iteration 274
+203 same
+203 iteration 275
+203 +1
+303 iteration 276
+303 -1
+203 iteration 277
+203 +r
+204 iteration 278
+204 same
+204 iteration 279
+204 +1
+304 iteration 280
+304 -1
+204 iteration 281
+204 -1
+104 iteration 282
+104 -r
+103 iteration 283
+103 -1
+3 iteration 284
+3 same
+3 iteration 285
+3 same
+3 iteration 286
+3 -r
+2 iteration 287
+2 +1
+102 iteration 288
+102 +1
+202 iteration 289
+202 -1
+102 iteration 290
+102 -1
+2 iteration 291
+2 same
+2 iteration 292
+2 same
+2 iteration 293
+2 +1
+102 iteration 294
+102 same
+102 iteration 295
+102 -1
+2 iteration 296
+2 same
+2 iteration 297
+2 -r
+1 iteration 298
+1 +1
+101 iteration 299
+101 same
+101 iteration 300
+101 -1
+1 iteration 301
+1 same
+1 iteration 302
+1 same
+1 iteration 303
+1 +1
+101 iteration 304
+101 +1
+201 iteration 305
+201 same
+201 iteration 306
+201 +1
+301 iteration 307
+301 same
+301 iteration 308
+301 -1
+201 iteration 309
+201 -1
+101 iteration 310
+101 -1
+1 iteration 311
+1 same
+1 iteration 312
+1 same
+1 iteration 313
+1 +1
+101 iteration 314
+101 same
+101 iteration 315
+101 -r
+100 iteration 316
+100 same
+100 iteration 317
+100 +1
+200 iteration 318
+200 -1
+100 iteration 319
+100 -1
+0 iteration 320
+0 same
+0 iteration 321
+0 +1
+100 iteration 322
+100 same
+100 iteration 323
+100 -1
+0 iteration 324
+0 same
+0 iteration 325
+0 same
+0 iteration 326
+0 +1
+100 iteration 327
+100 +1
+200 iteration 328
+200 same
+200 iteration 329
+200 +1
+300 iteration 330
+300 same
+300 iteration 331
+300 -1
+200 iteration 332
+200 -1
+100 iteration 333
+100 -1
+0 iteration 334
+0 same
+0 iteration 335
+0 +1
+100 iteration 336
+100 same
+100 iteration 337
+100 -1
+0 iteration 338
+0 same
+0 iteration 339
+0 same
+0 iteration 340
+0 +1
+100 iteration 341
+100 same
+100 iteration 342
+100 +1
+200 iteration 343
+200 -1
+100 iteration 344
+100 -1
+0 iteration 345
+0 same
+0 iteration 346
+0 same
+0 iteration 347
+0 +1
+100 iteration 348
+190 +r
+191 iteration 349
+191 -1
+91 iteration 350
+1 +1
+101 iteration 351
+101 -1
+1 iteration 352
+1 +r
+2 iteration 353
+2 same
+2 iteration 354
+2 +1
+102 iteration 355
+102 -r
+101 iteration 356
+101 same
+101 iteration 357
+101 -1
+1 iteration 358
+1 same
+1 iteration 359
+1 -r
+0 iteration 360
+0 same
+0 iteration 361
+0 same
+0 iteration 362
+0 +1
+100 iteration 363
+100 -1
+0 iteration 364
+0 same
+0 iteration 365
+0 +1
+100 iteration 366
+150 +r
+151 iteration 367
+121 -1
+21 iteration 368
+1 same
+1 iteration 369
+1 same
+1 iteration 370
+1 +1
+101 iteration 371
+101 +1
+201 iteration 372
+201 same
+201 iteration 373
+201 -1
+101 iteration 374
+101 +r
+102 iteration 375
+102 -1
+2 iteration 376
+2 same
+2 iteration 377
+2 +r
+3 iteration 378
+3 same
+3 iteration 379
+3 +1
+103 iteration 380
+113 same
+113 iteration 381
+113 -r
+112 iteration 382
+112 -r
+111 iteration 383
+101 -r
+100 iteration 384
+100 +r
+101 iteration 385
+101 -1
+1 iteration 386
+1 same
+1 iteration 387
+1 same
+1 iteration 388
+1 +1
+101 iteration 389
+101 same
+101 iteration 390
+101 -1
+1 iteration 391
+1 same
+1 iteration 392
+1 +1
+101 iteration 393
+101 +1
+201 iteration 394
+201 -r
+200 iteration 395
+200 +1
+300 iteration 396
+300 same
+300 iteration 397
+300 -1
+200 iteration 398
+200 +1
+300 iteration 399
+390 same
+390 iteration 400
+390 -1
+290 iteration 401
+290 same
+290 iteration 402
+200 same
+200 iteration 403
+200 -1
+100 iteration 404
+100 same
+100 iteration 405
+100 +1
+200 iteration 406
+200 same
+200 iteration 407
+200 -1
+100 iteration 408
+100 -1
+0 iteration 409
+0 same
+0 iteration 410
+0 same
+0 iteration 411
+0 +1
+100 iteration 412
+100 same
+100 iteration 413
+100 -1
+0 iteration 414
+0 same
+0 iteration 415
+0 +1
+100 iteration 416
+100 +r
+101 iteration 417
+101 same
+101 iteration 418
+101 -1
+1 iteration 419
+1 same
+1 iteration 420
+1 -r
+0 iteration 421
+0 same
+0 iteration 422
+0 same
+0 iteration 423
+0 +1
+100 iteration 424
+190 same
+190 iteration 425
+190 +1
+290 iteration 426
+200 -1
+100 iteration 427
+100 +1
+200 iteration 428
+200 +r
+201 iteration 429
+201 +1
+301 iteration 430
+301 same
+301 iteration 431
+301 -1
+201 iteration 432
+201 -1
+101 iteration 433
+101 +r
+102 iteration 434
+102 +r
+103 iteration 435
+103 same
+103 iteration 436
+103 -r
+102 iteration 437
+102 +1
+202 iteration 438
+202 same
+202 iteration 439
+202 +1
+302 iteration 440
+352 -r
+351 iteration 441
+381 +r
+382 iteration 442
+302 same
+302 iteration 443
+302 -1
+202 iteration 444
+202 -1
+102 iteration 445
+102 same
+102 iteration 446
+102 -1
+2 iteration 447
+2 same
+2 iteration 448
+2 +1
+102 iteration 449
+102 same
+102 iteration 450
+102 -1
+2 iteration 451
+2 same
+2 iteration 452
+2 +1
+102 iteration 453
+102 +1
+202 iteration 454
+202 -r
+201 iteration 455
+201 same
+201 iteration 456
+201 +r
+202 iteration 457
+202 same
+202 iteration 458
+202 -1
+102 iteration 459
+102 -1
+2 iteration 460
+2 same
+2 iteration 461
+2 same
+2 iteration 462
+2 -r
+1 iteration 463
+11 +1
+111 iteration 464
+101 -1
+1 iteration 465
+1 same
+1 iteration 466
+1 +1
+101 iteration 467
+101 +1
+201 iteration 468
+201 -1
+101 iteration 469
+101 same
+101 iteration 470
+101 -1
+1 iteration 471
+1 same
+1 iteration 472
+1 same
+1 iteration 473
+1 same
+1 iteration 474
+1 +1
+101 iteration 475
+101 same
+101 iteration 476
+101 -1
+1 iteration 477
+1 same
+1 iteration 478
+1 +1
+101 iteration 479
+101 +1
+201 iteration 480
+201 +1
+301 iteration 481
+301 -r
+300 iteration 482
+300 same
+300 iteration 483
+300 -1
+200 iteration 484
+200 same
+200 iteration 485
+200 +1
+300 iteration 486
+300 -1
+200 iteration 487
+200 +r
+201 iteration 488
+201 same
+201 iteration 489
+201 -1
+101 iteration 490
+101 -1
+1 iteration 491
+1 -r
+0 iteration 492
+0 same
+0 iteration 493
+0 +r
+1 iteration 494
+1 +r
+2 iteration 495
+2 +1
+102 iteration 496
+102 same
+102 iteration 497
+102 -r
+101 iteration 498
+101 same
+101 iteration 499
+101 -1
+1 iteration 500
+1 same
+1 iteration 501
+1 +1
+101 iteration 502
+101 +1
+201 iteration 503
+201 -r
+200 iteration 504
+200 -1
+100 iteration 505
+100 same
+100 iteration 506
+100 -1
+0 iteration 507
+0 same
+0 iteration 508
+0 +1
+100 iteration 509
+100 -1
+0 iteration 510
+0 same
+0 iteration 511
+0 +1
+100 iteration 512
+150 +1
+250 iteration 513
+250 same
+250 iteration 514
+250 +1
+350 iteration 515
+300 same
+300 iteration 516
+300 -1
+200 iteration 517
+200 same
+200 iteration 518
+200 -1
+100 iteration 519
+100 +r
+101 iteration 520
+101 -r
+100 iteration 521
+100 same
+100 iteration 522
+100 +1
+200 iteration 523
+200 +1
+300 iteration 524
+300 -1
+200 iteration 525
+200 -1
+100 iteration 526
+100 -1
+0 iteration 527
+0 same
+0 iteration 528
+0 same
+0 iteration 529
+0 +1
+100 iteration 530
+100 same
+100 iteration 531
+100 -1
+0 iteration 532
+0 same
+0 iteration 533
+0 +1
+100 iteration 534
+100 +1
+200 iteration 535
+200 same
+200 iteration 536
+200 -1
+100 iteration 537
+100 same
+100 iteration 538
+100 -1
+0 iteration 539
+0 same
+0 iteration 540
+0 same
+0 iteration 541
+0 +1
+100 iteration 542
+100 -1
+0 iteration 543
+0 same
+0 iteration 544
+0 same
+0 iteration 545
+0 +1
+100 iteration 546
+100 same
+100 iteration 547
+100 +1
+200 iteration 548
+200 +1
+300 iteration 549
+300 +r
+301 iteration 550
+301 +r
+302 iteration 551
+302 -1
+202 iteration 552
+202 +r
+203 iteration 553
+203 -1
+103 iteration 554
+103 -1
+3 iteration 555
+3 same
+3 iteration 556
+3 +r
+4 iteration 557
+4 same
+4 iteration 558
+4 same
+4 iteration 559
+4 +r
+5 iteration 560
+5 +r
+6 iteration 561
+6 same
+6 iteration 562
+6 same
+6 iteration 563
+6 +1
+106 iteration 564
+106 -1
+6 iteration 565
+6 +r
+7 iteration 566
+7 same
+7 iteration 567
+7 same
+7 iteration 568
+7 +1
+107 iteration 569
+107 same
+107 iteration 570
+107 +r
+108 iteration 571
+108 same
+108 iteration 572
+108 +1
+208 iteration 573
+208 +r
+209 iteration 574
+209 -1
+109 iteration 575
+109 same
+109 iteration 576
+109 -1
+9 iteration 577
+9 -r
+8 iteration 578
+8 +1
+108 iteration 579
+108 -1
+8 iteration 580
+8 -r
+7 iteration 581
+7 -r
+6 iteration 582
+6 -r
+5 iteration 583
+5 +1
+105 iteration 584
+105 -r
+104 iteration 585
+104 same
+104 iteration 586
+104 -1
+4 iteration 587
+4 +1
+104 iteration 588
+104 +r
+105 iteration 589
+105 same
+105 iteration 590
+105 -1
+5 iteration 591
+5 same
+5 iteration 592
+5 same
+5 iteration 593
+5 +1
+105 iteration 594
+155 +1
+255 iteration 595
+205 +r
+206 iteration 596
+206 -1
+106 iteration 597
+106 same
+106 iteration 598
+106 +r
+107 iteration 599
+107 -1
+7 iteration 600
+7 +r
+8 iteration 601
+8 same
+8 iteration 602
+8 same
+8 iteration 603
+8 same
+8 iteration 604
+8 +1
+108 iteration 605
+108 -1
+8 iteration 606
+8 -r
+7 iteration 607
+7 same
+7 iteration 608
+7 +1
+107 iteration 609
+107 -1
+7 iteration 610
+7 +r
+8 iteration 611
+8 +r
+9 iteration 612
+9 same
+9 iteration 613
+9 +1
+109 iteration 614
+109 same
+109 iteration 615
+109 -1
+9 iteration 616
+9 -r
+8 iteration 617
+8 +r
+9 iteration 618
+9 same
+9 iteration 619
+9 same
+9 iteration 620
+9 +1
+109 iteration 621
+109 -r
+108 iteration 622
+108 -1
+8 iteration 623
+8 same
+8 iteration 624
+8 +1
+108 iteration 625
+108 same
+108 iteration 626
+108 +r
+109 iteration 627
+109 +1
+209 iteration 628
+209 -1
+109 iteration 629
+109 -1
+9 iteration 630
+9 -r
+8 iteration 631
+8 same
+8 iteration 632
+8 -r
+7 iteration 633
+7 same
+7 iteration 634
+7 same
+7 iteration 635
+7 +1
+107 iteration 636
+107 same
+107 iteration 637
+107 +1
+207 iteration 638
+207 same
+207 iteration 639
+207 -1
+107 iteration 640
+107 -1
+7 iteration 641
+7 -r
+6 iteration 642
+6 same
+6 iteration 643
+6 +r
+7 iteration 644
+7 same
+7 iteration 645
+7 +r
+8 iteration 646
+8 same
+8 iteration 647
+8 +1
+108 iteration 648
+108 +1
+208 iteration 649
+208 -1
+108 iteration 650
+108 -r
+107 iteration 651
+107 -r
+106 iteration 652
+106 -1
+6 iteration 653
+6 +1
+106 iteration 654
+106 same
+106 iteration 655
+106 -1
+6 iteration 656
+6 same
+6 iteration 657
+6 same
+6 iteration 658
+6 -r
+5 iteration 659
+5 -r
+4 iteration 660
+4 +r
+5 iteration 661
+5 same
+5 iteration 662
+5 +r
+6 iteration 663
+6 +1
+106 iteration 664
+106 +1
+206 iteration 665
+206 same
+206 iteration 666
+206 +r
+207 iteration 667
+207 same
+207 iteration 668
+207 -1
+107 iteration 669
+107 -1
+7 iteration 670
+7 +1
+107 iteration 671
+107 +r
+108 iteration 672
+108 +1
+208 iteration 673
+218 same
+218 iteration 674
+218 -1
+118 iteration 675
+108 -1
+8 iteration 676
+8 same
+8 iteration 677
+8 -r
+7 iteration 678
+7 -r
+6 iteration 679
+6 same
+6 iteration 680
+6 same
+6 iteration 681
+6 +1
+106 iteration 682
+106 -1
+6 iteration 683
+6 same
+6 iteration 684
+6 -r
+5 iteration 685
+5 same
+5 iteration 686
+5 +1
+105 iteration 687
+105 +r
+106 iteration 688
+106 -1
+6 iteration 689
+6 +r
+7 iteration 690
+7 same
+7 iteration 691
+7 same
+7 iteration 692
+7 +1
+107 iteration 693
+107 same
+107 iteration 694
+107 -1
+7 iteration 695
+7 +r
+8 iteration 696
+8 same
+8 iteration 697
+8 +r
+9 iteration 698
+9 same
+9 iteration 699
+9 same
+9 iteration 700
+9 +1
+109 iteration 701
+109 same
+109 iteration 702
+109 -1
+9 iteration 703
+9 -r
+8 iteration 704
+8 +1
+108 iteration 705
+108 same
+108 iteration 706
+108 -1
+8 iteration 707
+8 same
+8 iteration 708
+8 -r
+7 iteration 709
+7 same
+7 iteration 710
+7 same
+7 iteration 711
+7 -r
+6 iteration 712
+6 same
+6 iteration 713
+6 +1
+106 iteration 714
+106 +r
+107 iteration 715
+107 +1
+207 iteration 716
+207 +1
+307 iteration 717
+317 +r
+318 iteration 718
+308 same
+308 iteration 719
+308 -1
+208 iteration 720
+208 same
+208 iteration 721
+208 -r
+207 iteration 722
+207 -r
+206 iteration 723
+206 -1
+106 iteration 724
+106 same
+106 iteration 725
+106 same
+106 iteration 726
+106 +1
+206 iteration 727
+206 +1
+306 iteration 728
+306 same
+306 iteration 729
+306 -1
+206 iteration 730
+206 -r
+205 iteration 731
+205 same
+205 iteration 732
+205 +1
+305 iteration 733
+305 +r
+306 iteration 734
+306 same
+306 iteration 735
+306 -r
+305 iteration 736
+305 same
+305 iteration 737
+305 -1
+205 iteration 738
+205 -1
+105 iteration 739
+105 -1
+5 iteration 740
+5 same
+5 iteration 741
+5 -r
+4 iteration 742
+4 same
+4 iteration 743
+4 -r
+3 iteration 744
+3 same
+3 iteration 745
+3 same
+3 iteration 746
+3 +1
+103 iteration 747
+103 +r
+104 iteration 748
+104 -1
+4 iteration 749
+4 same
+4 iteration 750
+4 +1
+104 iteration 751
+104 +1
+204 iteration 752
+204 -r
+203 iteration 753
+203 +r
+204 iteration 754
+204 +r
+205 iteration 755
+205 -r
+204 iteration 756
+204 same
+204 iteration 757
+204 -1
+104 iteration 758
+104 same
+104 iteration 759
+104 -1
+4 iteration 760
+4 same
+4 iteration 761
+4 same
+4 iteration 762
+4 +1
+104 iteration 763
+104 -r
+103 iteration 764
+103 -1
+3 iteration 765
+3 -r
+2 iteration 766
+2 same
+2 iteration 767
+2 same
+2 iteration 768
+2 +1
+102 iteration 769
+102 -1
+2 iteration 770
+2 +r
+3 iteration 771
+3 same
+3 iteration 772
+3 +1
+103 iteration 773
+103 +1
+203 iteration 774
+243 -1
+143 iteration 775
+143 +r
+144 iteration 776
+104 same
+104 iteration 777
+104 -1
+4 iteration 778
+4 -r
+3 iteration 779
+3 same
+3 iteration 780
+3 +r
+4 iteration 781
+4 same
+4 iteration 782
+4 +1
+104 iteration 783
+104 +1
+204 iteration 784
+224 +r
+225 iteration 785
+225 +r
+226 iteration 786
+206 -1
+106 iteration 787
+106 -1
+6 iteration 788
+6 same
+6 iteration 789
+6 -r
+5 iteration 790
+5 same
+5 iteration 791
+5 +1
+105 iteration 792
+105 +1
+205 iteration 793
+205 same
+205 iteration 794
+205 -1
+105 iteration 795
+105 same
+105 iteration 796
+105 -1
+5 iteration 797
+5 +r
+6 iteration 798
+6 +1
+106 iteration 799
+146 -1
+46 iteration 800
+6 +r
+7 iteration 801
+7 +1
+107 iteration 802
+107 -1
+7 iteration 803
+7 same
+7 iteration 804
+7 +r
+8 iteration 805
+8 same
+8 iteration 806
+8 +1
+108 iteration 807
+108 -1
+8 iteration 808
+8 +r
+9 iteration 809
+9 same
+9 iteration 810
+9 same
+9 iteration 811
+9 +1
+109 iteration 812
+109 -r
+108 iteration 813
+108 same
+108 iteration 814
+108 -r
+107 iteration 815
+107 same
+107 iteration 816
+107 -r
+106 iteration 817
+106 -r
+105 iteration 818
+105 -r
+104 iteration 819
+104 +r
+105 iteration 820
+105 same
+105 iteration 821
+105 -1
+5 iteration 822
+5 same
+5 iteration 823
+5 +1
+105 iteration 824
+125 -1
+25 iteration 825
+25 +1
+125 iteration 826
+105 +r
+106 iteration 827
+106 +r
+107 iteration 828
+107 -1
+7 iteration 829
+7 same
+7 iteration 830
+7 +1
+107 iteration 831
+107 +1
+207 iteration 832
+227 +r
+228 iteration 833
+218 +r
+219 iteration 834
+209 same
+209 iteration 835
+209 -r
+208 iteration 836
+208 +1
+308 iteration 837
+308 same
+308 iteration 838
+308 -r
+307 iteration 839
+307 -1
+207 iteration 840
+207 +r
+208 iteration 841
+208 -1
+108 iteration 842
+108 +r
+109 iteration 843
+109 -r
+108 iteration 844
+108 -1
+8 iteration 845
+8 same
+8 iteration 846
+8 +1
+108 iteration 847
+108 same
+108 iteration 848
+108 -1
+8 iteration 849
+8 -r
+7 iteration 850
+7 -r
+6 iteration 851
+6 same
+6 iteration 852
+6 same
+6 iteration 853
+6 +1
+106 iteration 854
+106 -1
+6 iteration 855
+6 same
+6 iteration 856
+6 -r
+5 iteration 857
+5 same
+5 iteration 858
+5 -r
+4 iteration 859
+4 same
+4 iteration 860
+4 same
+4 iteration 861
+4 +r
+5 iteration 862
+5 same
+5 iteration 863
+5 +1
+105 iteration 864
+105 +1
+205 iteration 865
+205 +1
+305 iteration 866
+305 same
+305 iteration 867
+305 -r
+304 iteration 868
+304 -r
+303 iteration 869
+303 -1
+203 iteration 870
+203 same
+203 iteration 871
+203 +1
+303 iteration 872
+303 same
+303 iteration 873
+303 -r
+302 iteration 874
+302 -r
+301 iteration 875
+301 same
+301 iteration 876
+301 -1
+201 iteration 877
+201 same
+201 iteration 878
+201 +1
+301 iteration 879
+351 +r
+352 iteration 880
+332 -1
+232 iteration 881
+202 +1
+302 iteration 882
+302 same
+302 iteration 883
+302 +r
+303 iteration 884
+303 -1
+203 iteration 885
+203 -1
+103 iteration 886
+103 same
+103 iteration 887
+103 -1
+3 iteration 888
+3 +1
+103 iteration 889
+103 same
+103 iteration 890
+103 +1
+203 iteration 891
+203 -r
+202 iteration 892
+202 -1
+102 iteration 893
+102 +1
+202 iteration 894
+202 same
+202 iteration 895
+202 -1
+102 iteration 896
+102 same
+102 iteration 897
+102 -1
+2 iteration 898
+2 same
+2 iteration 899
+2 same
+2 iteration 900
+2 -r
+1 iteration 901
+1 +r
+2 iteration 902
+2 +1
+102 iteration 903
+102 +r
+103 iteration 904
+103 -1
+3 iteration 905
+3 same
+3 iteration 906
+3 same
+3 iteration 907
+3 -r
+2 iteration 908
+2 same
+2 iteration 909
+2 same
+2 iteration 910
+2 +1
+102 iteration 911
+102 -1
+2 iteration 912
+2 same
+2 iteration 913
+2 +1
+102 iteration 914
+102 same
+102 iteration 915
+102 +1
+202 iteration 916
+202 -r
+201 iteration 917
+201 -1
+101 iteration 918
+101 same
+101 iteration 919
+101 -1
+1 iteration 920
+1 same
+1 iteration 921
+1 same
+1 iteration 922
+1 +1
+101 iteration 923
+101 -1
+1 iteration 924
+1 same
+1 iteration 925
+1 same
+1 iteration 926
+1 +1
+101 iteration 927
+101 same
+101 iteration 928
+101 +1
+201 iteration 929
+201 -1
+101 iteration 930
+101 -1
+1 iteration 931
+1 same
+1 iteration 932
+1 same
+1 iteration 933
+1 +1
+101 iteration 934
+101 -1
+1 iteration 935
+1 same
+1 iteration 936
+1 same
+1 iteration 937
+1 -r
+0 iteration 938
+0 same
+0 iteration 939
+0 +1
+100 iteration 940
+100 -1
+0 iteration 941
+0 same
+0 iteration 942
+0 same
+0 iteration 943
+0 +1
+100 iteration 944
+110 -1
+10 iteration 945
+10 +r
+11 iteration 946
+1 +1
+101 iteration 947
+101 same
+101 iteration 948
+101 +1
+201 iteration 949
+201 same
+201 iteration 950
+201 -r
+200 iteration 951
+200 same
+200 iteration 952
+200 -1
+100 iteration 953
+100 same
+100 iteration 954
+100 +r
+101 iteration 955
+101 -1
+1 iteration 956
+1 -r
+0 iteration 957
+0 same
+0 iteration 958
+0 +1
+100 iteration 959
+100 -1
+0 iteration 960
+0 same
+0 iteration 961
+0 same
+0 iteration 962
+0 +1
+100 iteration 963
+100 -1
+0 iteration 964
+0 same
+0 iteration 965
+0 same
+0 iteration 966
+0 +1
+100 iteration 967
+100 +1
+200 iteration 968
+200 -1
+100 iteration 969
+100 same
+100 iteration 970
+150 same
+150 iteration 971
+150 -1
+50 iteration 972
+0 same
+0 iteration 973
+0 +1
+100 iteration 974
+100 -1
+0 iteration 975
+0 same
+0 iteration 976
+0 same
+0 iteration 977
+0 +1
+100 iteration 978
+100 same
+100 iteration 979
+100 +1
+200 iteration 980
+290 +1
+390 iteration 981
+390 +r
+391 iteration 982
+301 same
+301 iteration 983
+301 -1
+201 iteration 984
+201 +1
+301 iteration 985
+301 -r
+300 iteration 986
+300 same
+300 iteration 987
+300 same
+300 iteration 988
+300 -1
+200 iteration 989
+200 +r
+201 iteration 990
+201 -1
+101 iteration 991
+101 -r
+100 iteration 992
+100 +r
+101 iteration 993
+101 same
+101 iteration 994
+101 +r
+102 iteration 995
+102 -1
+2 iteration 996
+2 +1
+102 iteration 997
+102 -r
+101 iteration 998
+101 -1
+1 iteration 999
+1 same
+1 iteration 1000
+1 same
+1 iteration 1001
+1 -r
+0 iteration 1002
+0 same
+0 iteration 1003
+0 +r
+1 iteration 1004
+1 +1
+101 iteration 1005
+101 +1
+201 iteration 1006
+201 +r
+202 iteration 1007
+202 +1
+302 iteration 1008
+302 -1
+202 iteration 1009
+202 same
+202 iteration 1010
+202 -1
+102 iteration 1011
+102 same
+102 iteration 1012
+102 -1
+2 iteration 1013
+2 +r
+3 iteration 1014
+3 +1
+103 iteration 1015
+103 -r
+102 iteration 1016
+102 +1
+202 iteration 1017
+202 same
+202 iteration 1018
+202 +r
+203 iteration 1019
+203 +1
+303 iteration 1020
+303 -1
+203 iteration 1021
+203 same
+203 iteration 1022
+203 -1
+103 iteration 1023
+103 -1
+3 iteration 1024
+3 same
+3 iteration 1025
+3 same
+3 iteration 1026
+3 +1
+103 iteration 1027
+103 same
+103 iteration 1028
+103 +r
+104 iteration 1029
+104 -1
+4 iteration 1030
+4 +1
+104 iteration 1031
+104 same
+104 iteration 1032
+104 -1
+4 iteration 1033
+4 +r
+5 iteration 1034
+5 same
+5 iteration 1035
+5 +r
+6 iteration 1036
+6 +r
+7 iteration 1037
+7 same
+7 iteration 1038
+7 same
+7 iteration 1039
+7 +1
+107 iteration 1040
+107 +r
+108 iteration 1041
+108 +1
+208 iteration 1042
+208 +r
+209 iteration 1043
+209 +1
+309 iteration 1044
+309 same
+309 iteration 1045
+309 -1
+209 iteration 1046
+209 -1
+109 iteration 1047
+109 -1
+9 iteration 1048
+9 -r
+8 iteration 1049
+8 same
+8 iteration 1050
+8 same
+8 iteration 1051
+8 +r
+9 iteration 1052
+9 same
+9 iteration 1053
+9 same
+9 iteration 1054
+9 +1
+109 iteration 1055
+109 +1
+209 iteration 1056
+209 +1
+309 iteration 1057
+309 same
+309 iteration 1058
+309 -r
+308 iteration 1059
+308 +r
+309 iteration 1060
+309 -1
+209 iteration 1061
+209 same
+209 iteration 1062
+209 -1
+109 iteration 1063
+109 -1
+9 iteration 1064
+9 -r
+8 iteration 1065
+8 -r
+7 iteration 1066
+7 +r
+8 iteration 1067
+8 same
+8 iteration 1068
+8 +1
+108 iteration 1069
+108 +1
+208 iteration 1070
+208 same
+208 iteration 1071
+208 -1
+108 iteration 1072
+108 -r
+107 iteration 1073
+107 +r
+108 iteration 1074
+108 -r
+107 iteration 1075
+107 same
+107 iteration 1076
+107 -1
+7 iteration 1077
+7 -r
+6 iteration 1078
+6 same
+6 iteration 1079
+6 +1
