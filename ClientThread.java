@@ -61,6 +61,8 @@ public class ClientThread implements Runnable {
             long end = System.nanoTime() + send_time;
             while (System.nanoTime() < end) {
             }
+            if(System.nanoTime() - startTime > 4.2e12)
+                break;
         }
     }
 }
